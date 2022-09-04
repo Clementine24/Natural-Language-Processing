@@ -7,4 +7,4 @@ This repository includes the projects I completed in the course DATA130030 of Fu
 + Project3: Built the most frequent tagger and HMM tagger for a Brown corpus.
 + Final Project: We choose [SemEval-2020 Task 4 Subtask A](https://competitions.codalab.org/competitions/21080).
 
-All projects have reached a very high completion and excellent level. See readme under each project for detailed project introduction.
+All projects have reached a very high completion and get a full score. See README under each project for detailed project introduction.
